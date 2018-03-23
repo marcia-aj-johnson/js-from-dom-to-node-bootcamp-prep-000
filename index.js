@@ -1,2 +1,2 @@
-// write your code be
-Hello, World!
+console.log("Hello, World!")
+
